@@ -1,0 +1,6 @@
+fastapi
+db-sqlite3
+pytz
+pandas
+geopy
+aksharamukha

@@ -1,0 +1,1 @@
+{"id":"5a5c6c20-5b8c-46f0-a1e9-a5dcb630c7c2","space":35262,"runtime":"python3.9","name":"panjangam_api","path":"hhv4wm","project":"d07uomso","account":"144798365827","region":"ap-south-1","deps":["fastapi","db-sqlite3","pytz","pandas","geopy","aksharamukha"],"envs":null,"public":true,"log_level":"debug","cron":""}
