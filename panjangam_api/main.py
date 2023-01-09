@@ -54,5 +54,5 @@ async def city_list():
         ans.append(i[1])
     return  ans
 
-if __name__ == "__main__":
-    app.run(port=9888)
+
+app.run(port=9888)
