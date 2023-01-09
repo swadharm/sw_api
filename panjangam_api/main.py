@@ -53,3 +53,6 @@ async def city_list():
     for i in data:
         ans.append(i[1])
     return  ans
+
+if __name__ == "__main__":
+    app.run(port=9888)
